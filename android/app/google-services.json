@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1046665130439",
+    "firebase_url": "https://genitest.firebaseio.com",
+    "project_id": "genitest",
+    "storage_bucket": "genitest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046665130439:android:e30491b287519afa2a29e2",
+        "android_client_info": {
+          "package_name": "com.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046665130439-mp6ak6b1eb1ia22jfvejhmva5et4hetv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcmtest",
+            "certificate_hash": "0405027973761857148e84432b9230db83b22b55"
+          }
+        },
+        {
+          "client_id": "1046665130439-ceab17cgdpnlirdke64s68h6ahm5bgpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQdwyi1kmJ0waey-u1RjdmSneRUL4YF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046665130439-ceab17cgdpnlirdke64s68h6ahm5bgpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046665130439-utoq5ab6pin1rftb6n28fmoq6be16ekl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geni"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
